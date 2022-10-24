@@ -1,0 +1,43 @@
+body {
+  background: #EDF5E1;
+}
+
+.nav-bar-class {
+  background: linear-gradient(#fff 33%, #00956e 33%,
+    #00956e 66%, #d52612 0);
+  height: 80px;
+  width: 100%;
+}
+
+.nav-bar-class ul {
+  text-align: center;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.nav-bar-class ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+
+.nav-bar-class a {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.p-bb {
+  border-bottom: 1px solid black;
+}
+
+.div-border {
+  border: 1px solid black;
+}
+
+.div-center {
+  text-align: center;
+}
