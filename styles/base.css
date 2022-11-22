@@ -34,10 +34,21 @@ a {
   border-bottom: 1px solid black;
 }
 
-.div-border {
+
+.container {
   border: 1px solid black;
 }
 
-.div-center {
+.just-left {
+  margin: 10px;
   text-align: center;
+  justify-content: center;
+  width: 30%;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.just-right {
+  margin: 20px;
+  text-align: right;
 }
