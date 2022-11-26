@@ -52,3 +52,15 @@ a {
   margin: 20px;
   text-align: right;
 }
+
+p {
+  margin: 5px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.nested-div {
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 15px;
+}
